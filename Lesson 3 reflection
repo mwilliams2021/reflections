@@ -1,0 +1,34 @@
+Lesson 3 reflections
+
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a new repository and shows the git directory
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+The staging are is an area where individual files can be inserted. It offers value because it allows you to specify which changes should be commited
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+By inserting individual files
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+ Branches help because you can make different versions of a file on different branches, while still keeping the original version intact.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help depict the different branches that could be created on the file
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+Merging two branches adds the edits of two files together
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+Git's automatic merging is more dependable and saves time. 
